@@ -12,7 +12,7 @@ Research interest
 ======
 - Landslides mechanism
 - Machine learning in geotechnical engineering
-- Landslides response and early warning
+- Landslides early warning and respond
 
 Getting started
 ======
