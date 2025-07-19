@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nuo Chen / Homepage"
+title                    : "Nuo Chen / Personal Website"
 title_separator          : "-"
 name                     : &name "Nuo Chen"
 description              : &description "PhD student from HKU"
@@ -22,15 +22,14 @@ repository               : "NuoCHEN0111/NuoCHEN0111.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Photo 1.png"
+  name             : "Nuo Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Hong Kong, China"
+  employer         : "The University of Hong Kong"
+  uri              : https://NuoCHEN0111.github.io
+  email            : "nuochen011102@connect.hku.hk" 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
