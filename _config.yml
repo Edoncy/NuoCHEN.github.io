@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nuo Chen / Personal Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Nuo Chen"
 description              : &description "PhD student from HKU"
