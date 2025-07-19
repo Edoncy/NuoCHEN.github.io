@@ -68,7 +68,7 @@ I'm a PhD student from in Deparmnet of aivil Engineering at the University of Ho
 - Landslides early warning and respond
 
 # 🔥 News
-- **2025.09**: &nbsp;I start my PhD study at HKU!
+- **2025.09**: &nbsp;🎉 I start my PhD study at HKU!
 
 # 📖 Education
 - **2025.09–Present**: PhD in Geotechnical Engineering  
