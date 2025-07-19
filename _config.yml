@@ -22,7 +22,7 @@ repository               : "NuoCHEN0111/NuoCHEN0111.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Nuoprofile.png"
+  avatar           : "profile.png"
   name             : "Nuo Chen"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
