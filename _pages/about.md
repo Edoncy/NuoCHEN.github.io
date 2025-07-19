@@ -63,17 +63,14 @@ About me
 I'm a PhD student from in Deparmnet of aivil Engineering at the University of Hong Kong (HKU) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html). Before start my PhD study, I also had a Msc degree from HKU. I obtained my B.Eng degree from Central South University (CSU) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
 
 # 🔍 Research interest
-======
 - Landslides mechanism
 - Machine learning in geotechnical engineering
 - Landslides early warning and respond
 
 # 🔥 News
-======
 - **2025.09**: &nbsp;I start my PhD study at HKU!
 
 # 📖 Education
-======
 - **2025.09–Present**: PhD in Geotechnical Engineering  
   – *The University of Hong Kong (China, Hong Kong SAR)*  
 - **2024.09–2025.09**: MSc in Civil Engineering (Geotechnical Engineering Stream)  
