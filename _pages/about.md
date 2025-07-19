@@ -61,6 +61,9 @@ redirect_from:
 About me
 ======
 I'm a PhD student from in Deparmnet of aivil Engineering at the University of Hong Kong (HKU) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html). Before start my PhD study, I also had a Msc degree from HKU. I obtained my B.Eng degree from Central South University (CSU) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
+My research currently aims to **track buried objects under debris flow** through differnet physical scales and provide **relaible disaster reponse** to the urgent needs of society.
+
+
 
 # 🔍 Research interest
 - Landslides mechanism
