@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Photo1.jpg"
   name             : "Nuo Chen"
-  pronouns         :  "He/Him"  
+  #pronouns         :  "He/Him"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR, China"
   employer         : "The University of Hong Kong"
