@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About me"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nuo Chen"
-  pronouns         :  "He/him"  
+  pronouns         :  "He/Him"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR, China"
   employer         : "The University of Hong Kong"
-  uri              : https://NuoCHEN.github.io
+  #uri              : https://NuoCHEN.github.io
   email            : "nuochen011102@connect.hku.hk" 
 
   # Academic websites
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
