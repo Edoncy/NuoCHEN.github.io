@@ -22,9 +22,9 @@ Education
 ======
 - Landslides mechanism
 - 2024.09-2025.09: MSc in Civil Engineering (Geotechnical Engineering Stream)
-  The University of Hong Kong (China, Hong Kong SAR)
+  -The University of Hong Kong (China, Hong Kong SAR)
 - 2020.09-2024.06: BEng in Civil Engineering
-  Central South University (China, Hunan)
+  -Central South University (China, Hunan)
 
 
 Create content & metadata
