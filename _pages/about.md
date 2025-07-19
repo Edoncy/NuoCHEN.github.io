@@ -21,8 +21,10 @@ News
 Education
 ======
 - Landslides mechanism
-- Machine learning in geotechnical engineering
-- 2020.09-2024.06: BEng in Civil Engineering, Central South University (China, Hunan)
+- 2024.09-2025.09: MSc in Civil Engineering (Geotechnical Engineering Stream)
+  The University of Hong Kong (China, Hong Kong SAR)
+- 2020.09-2024.06: BEng in Civil Engineering
+  Central South University (China, Hunan)
 
 
 Create content & metadata
