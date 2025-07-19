@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student from in Deparmnet of aivil Engineering at the University of Hong Kong (HKU) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html). Before start my PhD study, I also had a Msc degree from HKU. I obtained a B.Eng degree from Central South University (CSU) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
+I'm a PhD student from in Deparmnet of aivil Engineering at the University of Hong Kong (HKU) under supervised by [Prof. Clarence E. Choi](https://www.civil.hku.hk/pp-choice.html). Before start my PhD study, I also had a Msc degree from HKU. I obtained my B.Eng degree from Central South University (CSU) which was advised by [Prof. Jiren Xie](https://faculty.csu.edu.cn/xiejiren/zh_CN/index.htm).
 
 Research interest
 ======
