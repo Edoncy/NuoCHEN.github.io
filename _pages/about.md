@@ -73,6 +73,8 @@ My research currently aims to **track buried objects under debris flow** through
 # 🔥 News
 - **2025.09**: &nbsp;🎉 I start my PhD study at HKU!
 
+# 📝 Selected publications
+
 # 📖 Education
 - **2025.09–Present**: PhD in Geotechnical Engineering  
   – *The University of Hong Kong (China, Hong Kong SAR)*  
