@@ -1,8 +1,8 @@
 ---
-layout: archive
+#layout: archive
 #title: "Sitemap"
 #permalink: /sitemap/
-author_profile: false
+author_profile: ture
 ---
 
 {% include base_path %}
