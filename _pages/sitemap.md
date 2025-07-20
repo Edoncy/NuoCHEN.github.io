@@ -2,7 +2,7 @@
 #layout: archive
 #title: "Sitemap"
 #permalink: /sitemap/
-author_profile: ture
+#author_profile: ture
 ---
 
 {% include base_path %}
