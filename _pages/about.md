@@ -82,3 +82,8 @@ My research currently aims to **track buried objects under debris flow** through
   – *The University of Hong Kong (China, Hong Kong SAR)*  
 - **2020.09–2024.06**: BEng in Civil Engineering  
   – *Central South University (China, Hunan)*  
+
+<div class="logo-row">
+  <img src="../images/CSU.png"      alt="">
+  <img src="../images/HKU.png"  alt="">
+</div>
