@@ -85,5 +85,5 @@ My research currently aims to **track buried objects under debris flow** through
 
 <div class="logo-row">
   <img src="../images/CSU.png"      alt="">
-  <img src="../images/HKU.png"  alt="">
+  <img src="../images/HKU.png"      alt="">
 </div>
