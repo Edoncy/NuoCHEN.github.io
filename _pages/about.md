@@ -35,7 +35,7 @@ redirect_from:
     margin-top: 2rem; 
   }
   .logo-row img {
-    height: 60px;
+    height: 120px;
     width: auto;
     /* 
        border-radius: 6px;
